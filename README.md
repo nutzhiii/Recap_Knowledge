@@ -10,5 +10,5 @@ I will try to update following the below topics.
 * Algorithm
 * Data Structure
 * Mathematics
-* Interview Practices
 * Devops
+* Interview Practices
