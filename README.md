@@ -1,2 +1,12 @@
-# Recap_Knowledge
-Python_101 file => consists of exercise in sheets from python in a data science course (intro) and other resource of my practicing
+# Recap_Knowledge_IT (last updated 01_18_2022)
+I will try to update following the below topics.
+Python_101
+SQL_101
+Machine Learning
+Deep Learning
+Data Analytic
+Social Network Analysis
+Algorithm
+Data Structure
+Mathematics
+Interview Practices
